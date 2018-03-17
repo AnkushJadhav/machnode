@@ -1,0 +1,19 @@
+{
+  "name": "machnode",
+  "version": "1.0.0",
+  "description": "A Node.js based framework for statistical analysis and machine learning capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkushJadhav/machnode.git"
+  },
+  "author": "Ankush Jadhav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnkushJadhav/machnode/issues"
+  },
+  "homepage": "https://github.com/AnkushJadhav/machnode#readme"
+}
